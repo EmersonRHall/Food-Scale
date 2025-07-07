@@ -4,13 +4,9 @@ import time
 import machine
 import json
 
-# === WIFI CONFIG ===
-#SSID = 'SpectrumSetup-F0CD'
-#PASSWORD = 'friendlyring983'
-
 # === WIFI CONFIG (Eduroam) ===
-SSID = 'Emerson'  
-PASSWORD = '11111111'  
+SSID = #  
+PASSWORD = #  
 
 
 # === SENSOR SETUP ===
